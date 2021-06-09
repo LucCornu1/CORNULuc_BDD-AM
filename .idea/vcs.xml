@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CORNULuc_Patisserie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CORNULuc_Planete" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MonPremierPendu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyFormulaireApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyListApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NavigationBizzareAdventure_Parcelable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NaviguationBizarreAdventure_Intent" vcs="Git" />
+  </component>
+</project>
